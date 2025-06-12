@@ -1,7 +1,14 @@
-## Hi there 👋
+## Hi there 
+Welcome to my Github page!
+## About me
+I'm a Fullstack developer located in Oslo, Norway. 
+I have a passion for creating functional and visually appealing web applications, and strive to deliver seamless user experiences and robust solutions.
+<!-- TO DO: add more details about me later -->
 
+## My Coding Journey
+In the fall of 2024, I took part in an HTML introductory course hosted by _NITO_. I also downloaded Sololearn where I learned more HTML, CSS and some SQL basics.<br/> At the start of 2025, I studied at _Oslos Nye Fagskole_, where I studied Frontend and Backend Essentials. The repository named **PRO1001-Exam** is my exam project for my Frontend course, and the repository **PRO1002-exam-Backend** is my exam project for the Backend course. 
 <!--
-**gaskahil/gaskahil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
